@@ -1,0 +1,73 @@
+{
+    "name": "Knox Payments",
+    "description": "Knox connects your bank to merchants so you can pay with your online banking without the merchant getting any of your personal info.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Knox-Payments.png",
+    "tags": [
+        "api provider",
+        "financial services",
+        "has api",
+        "have api",
+        "no api definition",
+        "payments",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/knox-payments\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Knox Payments",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Knox-Payments.png",
+            "humanURL": "http:\/\/knoxpayments.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/knox-payments-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/knox-payments-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/knox-payments"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/knoxpayments.com\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "support@knoxpayments.com"
+        },
+        {
+            "type": "Email",
+            "url": "abhinav@knoxpayments.com"
+        },
+        {
+            "type": "Sandbox",
+            "url": "http:\/\/knoxpayments.com\/docs"
+        },
+        {
+            "type": "Support",
+            "url": "http:\/\/knoxpayments.com\/support"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/knoxpayments"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/knoxpayments.com"
+        }
+    ]
+}
